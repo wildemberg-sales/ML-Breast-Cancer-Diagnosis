@@ -4,8 +4,9 @@ Repositório dedicado a um projeto de Machine Learning para identificação de c
 # Acompanhamentos dos resultados dos modelos
 
 ## Primeira Versão
+Baseado em uma primeira versão do modelo classificador binário, ao plotar os gráficos, vê-se uma variação muito alta das métricas definidas para acompanhamento. Por mais que no relatório de métricas, aparentemente os valores são bons, é importante tentar eliminar as variações que aparecem nos gráficos.
 
-### RELATÓRIO FINAL (MÉTRICAS DE AVALIAÇÃO)  
+#### RELATÓRIO FINAL (MÉTRICAS DE AVALIAÇÃO)  
 ---------------------------------------  
 Acuracia Final: 96.9%  
 Acurácia Geral: 97.0%  
@@ -30,3 +31,10 @@ Taxa de Verdadeiros Negativos: 99.0%
 Taxa de Falsos Positivos: 2.0%  
 Taxa de Falsos Negativos: 1.0%  
 Dados Inválidos: 1.0%  
+
+#### Exemplo do gráfico de algumas das métricas
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+## Segunda Versão
