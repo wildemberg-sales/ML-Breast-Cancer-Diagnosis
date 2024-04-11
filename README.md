@@ -38,3 +38,37 @@ Dados Inválidos: 1.0%
 ![alt text](image-2.png)
 
 ## Segunda Versão
+Após uma tentativa de Fine Turing, foi acrescentado mais camadas de processamento e mais neurônios e duas camadas de normalização para tentativa de melhora do modelo.  
+Os dados se mantiveram com as métricas parecidas com a da primeira versão, mas ao plotar os gráficos, percebe-se uma variação alta durante o processo de execução do modelo.
+
+#### RELATÓRIO FINAL (MÉTRICAS DE AVALIAÇÃO)
+---------------------------------------
+Acuracia Final: 96.46%
+Acurácia Geral: 96.0%
+Acurácia (Média U10): 96.0%
+Acurácia (Treinamento): 96.0%
+Acurácia (Validação): 98.0%
+Taxa de Perda: 0.03%
+Taxa de Perda (Validação): 0.12%
+Precisão: 100.0%
+Precisão (Validação): 97.0%
+Recall: 99.0%
+Recall (Validação): 97.0%
+F1 Score: 99.0%
+F-Measure: 99.0%
+F1 Score (TP, FP, TN, FN): 97.0%
+Taxa de Aprendizado: 9.999999974752427e-07
+Sensibilidade: 97.0%
+Especificidade: 96.0%
+Acurácia da Matriz de Confusão: 96.0%
+Taxa de Verdadeiros Positivos: 99.0%
+Taxa de Verdadeiros Negativos: 98.0%
+Taxa de Falsos Positivos: 2.0%
+Taxa de Falsos Negativos: 1.0%
+Dados Inválidos: 1.0%
+
+#### Exemplo do gráfico de algumas das métricas
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
